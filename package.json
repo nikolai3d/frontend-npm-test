@@ -1,0 +1,17 @@
+{
+  "name": "TTest1",
+  "version": "0.4.0",
+  "description": "A time synchronizer client-server + chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:observeris/time-server.git"
+  },
+  "license": "MIT",
+  "author": "Nikolai Svakhin <svakhine@adobe.com> (https://twitter.com/Nikolai3d)",
+  "dependencies": {
+    "ntpsync-client": "git://github.com/nikolai3d/ntpsync-client.git#master"
+  },
+  "scripts": {
+  }
+}
